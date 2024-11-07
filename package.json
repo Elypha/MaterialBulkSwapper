@@ -1,0 +1,15 @@
+{
+    "name": "com.elypha.vpm.material-swapper",
+    "displayName": "Material Bulk Swapper",
+    "description": "A helper tool to swap materials in bulk, especially useful if your outfit has multiple parts x multiple materials.",
+    "author": {
+        "name": "Elypha",
+        "email": "i@elypha.com",
+        "url": "https://elypha.com"
+    },
+    "url": "https://github.com/Elypha/MaterialBulkSwapper",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "vpmDependencies": {},
+    "dependencies": {}
+}
